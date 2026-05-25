@@ -99,7 +99,7 @@ cv:
       - title: Liouville equations on complete surfaces with nonnegative Gauss curvature
         authors:
           - Xiaohan Cai, Mijia Lai
-        publisher: Pacific Journal of Mathematics
+        publisher: Pacific J. Math.
         releaseDate: 1905-06-30
         url: https://msp.org/pjm/2024/332-1/p02.xhtml
         summary: We obtain a complete classification of the finite-total-curvature solutions to the Liouville equation on complete surfaces with nonnegative Gauss curvature.
@@ -115,26 +115,26 @@ cv:
       - title: An area growth estimate of the Liouville equation
         authors:
           - Xiaohan Cai, Mijia Lai, and Chilin Zhang
-        publisher: Mathematical Research Letters
+        publisher: Math. Res. Lett.
         releaseDate: 1916-03-20
         #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: By establishing an area growth estimate, we provide a new proof of Eremenko-Gui-Li-Xu’s classification for solutions that are bounded from above of the Liouville equation.
 
-    #   - title: Uniqueness results for positive harmonic functions on manifolds with nonnegative Ricci curvature and strictly convex boundary
-    #     authors:
-    #       - Xiaohan Cai
-    #     publisher: Calculus of Variations and Partial Differential Equations
-    #     releaseDate: 1916-03-20
-    #     #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-    #     summary: We obtain some partial results on Wang's conjecture on the classification of positive harmonic functions with certain nonlinear Neumann boundary condition on compact Riemannian manifolds with nonnegative Ricci curvature and strictly convex boundary.
+      - title: Uniqueness results for positive harmonic functions on manifolds with nonnegative Ricci curvature and strictly convex boundary
+        authors:
+          - Xiaohan Cai
+        publisher: Calc. Var. Partial Differ. Equ.
+        releaseDate: 1916-03-20
+        #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+        summary: We obtain some partial results on Wang's conjecture on the classification of positive harmonic functions with certain nonlinear Neumann boundary condition on compact Riemannian manifolds with nonnegative Ricci curvature and strictly convex boundary.
 
-    #   - title: A modified Bakry-Émery \Gamma_2 criterion inequality and the monotonicity of the Tsallis entropy
-    #     authors:
-    #       - Xiaohan Cai, Xiaodong Wang
-    #     #publisher: Mathematical Research Letters
-    #     releaseDate: 1916-03-20
-    #     #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-    #     summary: We establish a modified weighted \Gamma_2 criterion inequality which could be interpreted as a monotonicity of the Tsallis entropy under the heat flow and yields a family of sharp Sobolev inequalities.
+      - title: A modified Bakry-Émery \Gamma_2 criterion inequality and the monotonicity of the Tsallis entropy
+        authors:
+          - Xiaohan Cai, Xiaodong Wang
+        #publisher: Mathematical Research Letters
+        releaseDate: 1916-03-20
+        #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+        summary: We establish a modified weighted \Gamma_2 criterion inequality which could be interpreted as a monotonicity of the Tsallis entropy under the heat flow and yields a family of sharp Sobolev inequalities.
 
 
 
