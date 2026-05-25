@@ -116,6 +116,13 @@ ninja.data = [{
           window.open("mailto:%78%69%61%6F%68%61%6E%63%61%69@%73%6A%74%75.%65%64%75.%63%6E", "_blank");
         },
       },{
+        id: 'social-arxiv',
+        title: 'Arxiv',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://arxiv.org/search/math?query=xiaohan+cai&searchtype=author&abstracts=show&order=-announced_date_first&size=50", "_blank");
+        },
+      },{
         id: 'social-mathscinet',
         title: 'Mathscinet',
         section: 'Socials',
