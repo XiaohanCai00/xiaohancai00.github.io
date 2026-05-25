@@ -8,7 +8,7 @@ email: xiaohancai@sjtu.edu.cn # your email address
 #   title: arXiv
 #   url: https://arxiv.org/search/math?query=xiaohan+cai&searchtype=author&abstracts=show&order=-announced_date_first&size=50
 mathscinet:
-  logo: "assets/img/mathscinet.png"
+  logo: /assets/pdf/mathscinet.png
   title: MathSciNet
   url: "https://mathscinet.ams.org/mathscinet/author?authorId=1636496/"
 scholar_userid: c0Cm2bIAAAAJ # your Google Scholar ID
