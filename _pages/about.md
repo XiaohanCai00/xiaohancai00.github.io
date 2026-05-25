@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a doctoral student at Shanghai Jiao Tong University under the supervision of Prof. [Congming Li](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIcpc) and Prof. [Mijia Lai](https://math.sjtu.edu.cn/faculty/mlai/).
+I am currently a doctoral student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of Prof. [Congming Li](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIcpc) and Prof. [Mijia Lai](https://math.sjtu.edu.cn/faculty/mlai/).
+
+I obtained my Bachelor degree at School of Mathematical Sciences, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 under the supervision of Prof. [Mijia Lai](https://math.sjtu.edu.cn/faculty/mlai/).
