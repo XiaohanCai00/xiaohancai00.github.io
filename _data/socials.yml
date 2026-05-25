@@ -3,10 +3,10 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 email: xiaohancai@sjtu.edu.cn # your email address
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://icons.iconarchive.com/icons/simpleicons-team/simple/128/arxiv-icon.png # can be png, svg, jpg
-  title: arXiv
-  url: https://arxiv.org/search/math?query=xiaohan+cai&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: https://icons.iconarchive.com/icons/simpleicons-team/simple/128/arxiv-icon.png # can be png, svg, jpg
+#   title: arXiv
+#   url: https://arxiv.org/search/math?query=xiaohan+cai&searchtype=author&abstracts=show&order=-announced_date_first&size=50
 custom_social:
   logo: /assets/img/mathscinet.png
   title: MathSciNet
