@@ -6,7 +6,7 @@ cv:
   image: ""
   summary: Geometric analysis, conformal geometry, positive scalar curvature.
 
-  social_networks:
+  #social_networks:
     #- network: X
     #  username: AlbertEinstein
     #- network: GitHub
@@ -18,7 +18,7 @@ cv:
     street: 800 Dongchuan RD
     city: Minhang
     region: Shanghai
-    postalCode: 200240
+    postalCode: "200240"
     countryCode: China
 
   sections:
@@ -66,34 +66,18 @@ cv:
         #  - Description 1.
         #  - Description 2.
 
-      #- company: Kaiser Wilhelm Institute for Physics
-      #  position: Director
-      #  location: Berlin, Germany
-      #  start_date: 1917
-      #  end_date: 1933
+      
 
-      #- company: Karl-Ferdinand University
-      #  position: Professor of Theoretical Physics
-     #   location: Prague, Czechoslovakia
-     #   start_date: 1911
-     #   end_date: 1917
-
-      #- company: University of Zurich
-    #    position: Associate Professor of Theoretical Physics
-     #   location: Zurich, Switzerland
-    #    start_date: 1909
-    #    end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     # Awards:
       # - title: Nobel Prize in Physics
@@ -111,54 +95,54 @@ cv:
       #   awarder: German Physical Society
       #   summary: Awarded for outstanding scientific achievement
 
-    Publications:
-      - title: Liouville equations on complete surfaces with nonnegative Gauss curvature
-        authors:
-          - Xiaohan Cai, Mijia Lai
-        publisher: Pacific Journal of Mathematics
-        releaseDate: 1905-06-30
-        url: https://msp.org/pjm/2024/332-1/p02.xhtml
-        summary: We obtain a complete classification of the finite-total-curvature solutions to the Liouville equation on complete surfaces with nonnegative Gauss curvature.
+    # Publications:
+    #   - title: Liouville equations on complete surfaces with nonnegative Gauss curvature
+    #     authors:
+    #       - Xiaohan Cai, Mijia Lai
+    #     publisher: Pacific Journal of Mathematics
+    #     releaseDate: 1905-06-30
+    #     url: https://msp.org/pjm/2024/332-1/p02.xhtml
+    #     summary: We obtain a complete classification of the finite-total-curvature solutions to the Liouville equation on complete surfaces with nonnegative Gauss curvature.
 
-      - title: A survey of classification results for solutions to the Liouville equation.
-        authors:
-          - Xiaohan Cai, Mijia Lai
-        publisher: J. Math. Study
-        releaseDate: 1905-03-18
-        url: https://www.global-sci.com/index.php/jms/article/view/13480
-        summary: we survey some results concerning the classification of solutions to the Liouville equation.
+    #   - title: A survey of classification results for solutions to the Liouville equation.
+    #     authors:
+    #       - Xiaohan Cai, Mijia Lai
+    #     publisher: J. Math. Study
+    #     releaseDate: 1905-03-18
+    #     url: https://www.global-sci.com/index.php/jms/article/view/13480
+    #     summary: we survey some results concerning the classification of solutions to the Liouville equation.
 
-      - title: An area growth estimate of the Liouville equation
-        authors:
-          - Xiaohan Cai, Mijia Lai, and Chilin Zhang
-        publisher: Mathematical Research Letters
-        releaseDate: 1916-03-20
-        #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: By establishing an area growth estimate, we provide a new proof of Eremenko-Gui-Li-Xu’s classification for solutions that are bounded from above of the Liouville equation.
+    #   - title: An area growth estimate of the Liouville equation
+    #     authors:
+    #       - Xiaohan Cai, Mijia Lai, and Chilin Zhang
+    #     publisher: Mathematical Research Letters
+    #     releaseDate: 1916-03-20
+    #     #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+    #     summary: By establishing an area growth estimate, we provide a new proof of Eremenko-Gui-Li-Xu’s classification for solutions that are bounded from above of the Liouville equation.
 
-      - title: Uniqueness results for positive harmonic functions on manifolds with nonnegative Ricci curvature and strictly convex boundary
-        authors:
-          - Xiaohan Cai
-        publisher: Calculus of Variations and Partial Differential Equations
-        releaseDate: 1916-03-20
-        #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: We obtain some partial results on Wang's conjecture on the classification of positive harmonic functions with certain nonlinear Neumann boundary condition on compact Riemannian manifolds with nonnegative Ricci curvature and strictly convex boundary.
+    #   - title: Uniqueness results for positive harmonic functions on manifolds with nonnegative Ricci curvature and strictly convex boundary
+    #     authors:
+    #       - Xiaohan Cai
+    #     publisher: Calculus of Variations and Partial Differential Equations
+    #     releaseDate: 1916-03-20
+    #     #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+    #     summary: We obtain some partial results on Wang's conjecture on the classification of positive harmonic functions with certain nonlinear Neumann boundary condition on compact Riemannian manifolds with nonnegative Ricci curvature and strictly convex boundary.
 
-      - title: A modified Bakry-Émery \Gamma_2 criterion inequality and the monotonicity of the Tsallis entropy
-        authors:
-          - Xiaohan Cai, Xiaodong Wang
-        #publisher: Mathematical Research Letters
-        releaseDate: 1916-03-20
-        #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: We establish a modified weighted \Gamma_2 criterion inequality which could be interpreted as a monotonicity of the Tsallis entropy under the heat flow and yields a family of sharp Sobolev inequalities.
+    #   - title: A modified Bakry-Émery \Gamma_2 criterion inequality and the monotonicity of the Tsallis entropy
+    #     authors:
+    #       - Xiaohan Cai, Xiaodong Wang
+    #     #publisher: Mathematical Research Letters
+    #     releaseDate: 1916-03-20
+    #     #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+    #     summary: We establish a modified weighted \Gamma_2 criterion inequality which could be interpreted as a monotonicity of the Tsallis entropy under the heat flow and yields a family of sharp Sobolev inequalities.
 
 
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    # Skills:
+    #   - name: Physics
+    #     level: Master
+    #     icon: fa-solid fa-hashtag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
       - name: German
