@@ -116,6 +116,13 @@ ninja.data = [{
           window.open("mailto:%78%69%61%6F%68%61%6E%63%61%69@%73%6A%74%75.%65%64%75.%63%6E", "_blank");
         },
       },{
+        id: 'social-mathscinet',
+        title: 'Mathscinet',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://mathscinet.ams.org/mathscinet/author?authorId=1636496/", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
