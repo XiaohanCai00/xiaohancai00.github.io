@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Doctoral Student, School of Mathematics, <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a><br>
