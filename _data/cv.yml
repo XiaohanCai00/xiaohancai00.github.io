@@ -104,21 +104,21 @@ cv:
         url: https://msp.org/pjm/2024/332-1/p02.xhtml
         summary: We obtain a complete classification of the finite-total-curvature solutions to the Liouville equation on complete surfaces with nonnegative Gauss curvature.
 
-    #   - title: A survey of classification results for solutions to the Liouville equation.
-    #     authors:
-    #       - Xiaohan Cai, Mijia Lai
-    #     publisher: J. Math. Study
-    #     releaseDate: 1905-03-18
-    #     url: https://www.global-sci.com/index.php/jms/article/view/13480
-    #     summary: we survey some results concerning the classification of solutions to the Liouville equation.
+      - title: A survey of classification results for solutions to the Liouville equation.
+        authors:
+          - Xiaohan Cai, Mijia Lai
+        publisher: J. Math. Study
+        releaseDate: 1905-03-18
+        url: https://www.global-sci.com/index.php/jms/article/view/13480
+        summary: we survey some results concerning the classification of solutions to the Liouville equation.
 
-    #   - title: An area growth estimate of the Liouville equation
-    #     authors:
-    #       - Xiaohan Cai, Mijia Lai, and Chilin Zhang
-    #     publisher: Mathematical Research Letters
-    #     releaseDate: 1916-03-20
-    #     #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-    #     summary: By establishing an area growth estimate, we provide a new proof of Eremenko-Gui-Li-Xu’s classification for solutions that are bounded from above of the Liouville equation.
+      - title: An area growth estimate of the Liouville equation
+        authors:
+          - Xiaohan Cai, Mijia Lai, and Chilin Zhang
+        publisher: Mathematical Research Letters
+        releaseDate: 1916-03-20
+        #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+        summary: By establishing an area growth estimate, we provide a new proof of Eremenko-Gui-Li-Xu’s classification for solutions that are bounded from above of the Liouville equation.
 
     #   - title: Uniqueness results for positive harmonic functions on manifolds with nonnegative Ricci curvature and strictly convex boundary
     #     authors:
