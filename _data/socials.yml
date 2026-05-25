@@ -5,9 +5,10 @@ cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 email: xiaohancai@sjtu.edu.cn # your email address
 scholar_userid: c0Cm2bIAAAAJ # your Google Scholar ID
 research_gate_profile: "Xiaohan-Cai-4"
+orcid_id: "0009-0004-0568-5018"
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+#custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  #logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  #title: Custom Social
+  #url: https://www.alberteinstein.com/
