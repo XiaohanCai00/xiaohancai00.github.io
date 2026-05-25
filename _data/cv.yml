@@ -22,6 +22,28 @@ cv:
     countryCode: China
 
   sections:
+    Experience:
+      - company: BICMR & Peking University
+        position: Visiting student
+        location: Beijing, China
+        url: https://bicmr.pku.edu.cn/
+        start_date: Feb. 2021
+        end_date: Jun. 2021
+        summary: The 14th Session of the Graduate Mathematics Foundation Intensive Program
+        #highlights:
+         # - Relativity
+         # - Description 2.
+
+      - company: Michigan State University
+        position: Visiting Scholar
+        location: Michigan, US
+        url: https://math.msu.edu/
+        start_date: Dec. 2024
+        end_date: May 2026
+       # highlights:
+        #  - Description 1.
+        #  - Description 2.
+
     Education:
       - institution: Shanghai Jiao Tong University
         location: Shanghai, China
@@ -46,28 +68,6 @@ cv:
         #highlights:
           #- Description 1.
           #- Description 2.
-
-    Experience:
-      - company: BICMR & Peking University
-        position: Visiting student
-        location: Beijing, China
-        url: https://bicmr.pku.edu.cn/
-        start_date: Feb. 2021
-        end_date: Jun. 2021
-        summary: The 14th Session of the Graduate Mathematics Foundation Intensive Program
-        #highlights:
-         # - Relativity
-         # - Description 2.
-
-      - company: Michigan State University
-        position: Visiting Scholar
-        location: Michigan, US
-        url: https://math.msu.edu/
-        start_date: Dec. 2024
-        end_date: May 2026
-       # highlights:
-        #  - Description 1.
-        #  - Description 2.
 
       
 
@@ -135,7 +135,7 @@ cv:
         authors:
           - Xiaohan Cai, Xiaodong Wang
         #publisher: Mathematical Research Letters
-        releaseDate: 1916-03-20
+        releaseDate: 2026
         #url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: We establish a modified weighted \Gamma_2 criterion inequality which could be interpreted as a monotonicity of the Tsallis entropy under the heat flow and yields a family of sharp Sobolev inequalities.
 
