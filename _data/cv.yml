@@ -23,6 +23,19 @@ cv:
 
   sections:
     Education:
+      
+
+      - institution: Shanghai Jiao Tong University
+        location: Shanghai, China
+        url: https://www.sjtu.edu.cn/
+        area: Mathematics
+        studyType: PhD
+        start_date: 2022
+        end_date: 2027
+        #highlights:
+          #- Description 1.
+          #- Description 2.
+
       - institution: Shanghai Jiao Tong University
         location: Shanghai, China
         url: https://www.sjtu.edu.cn/
@@ -35,17 +48,7 @@ cv:
         #highlights:
          # - Description 1.
          # - Description 2.
-
-      - institution: Shanghai Jiao Tong University
-        location: Shanghai, China
-        url: https://www.sjtu.edu.cn/
-        area: Mathematics
-        studyType: PhD
-        start_date: 2022
-        end_date: 2027
-        #highlights:
-          #- Description 1.
-          #- Description 2.
+         
     # Experience:
     #   - company: BICMR & Peking University
     #     position: Visiting student
