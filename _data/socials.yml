@@ -10,7 +10,7 @@ email: xiaohancai@sjtu.edu.cn # your email address
 custom_social:
   logo: /assets/img/mathscinet.png
   title: MathSciNet
-  url: "https://mathscinet.ams.org/mathscinet/author?authorId=1636496"
+  url: https://mathscinet.ams.org/mathscinet/author?authorId=1636496/
 scholar_userid: c0Cm2bIAAAAJ # your Google Scholar ID
 research_gate_profile: "Xiaohan-Cai-4"
 orcid_id: "0009-0004-0568-5018"
