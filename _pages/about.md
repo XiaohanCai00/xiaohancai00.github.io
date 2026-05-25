@@ -32,6 +32,6 @@ latest_posts:
 
 I am currently a doctoral student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of Prof. [Congming Li](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIcpc) and Prof. [Mijia Lai](https://math.sjtu.edu.cn/faculty/mlai/).
 
-I obtained my Bachelor's degree at School of Mathematical Sciences, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 under the supervision of Prof. [Mijia Lai](https://math.sjtu.edu.cn/faculty/mlai/).
+I obtained my Bachelor's degree in Mathematics and Applied Mathematics from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 under the supervision of Prof. [Mijia Lai](https://math.sjtu.edu.cn/faculty/mlai/).
 
-My research lies in geometric analysis, primarily conformal geometry, with a related interest in positive scalar curvature problems.
+My research lies in geometric analysis, particularly comparison geometry and rigidity phenomena. I study the classification and uniqueness of solutions to geometric PDEs arising from the calculus of variations and conformal geometry, which often lead to sharp geometric estimates. More recently, my interests have also extended to geometric obstructions to positive scalar curvature.
