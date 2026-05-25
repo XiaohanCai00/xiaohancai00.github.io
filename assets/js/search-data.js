@@ -528,6 +528,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=c0Cm2bIAAAAJ", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Xiaohan-Cai-4/", "_blank");
+        },
+      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
