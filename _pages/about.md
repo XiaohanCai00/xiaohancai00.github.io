@@ -3,7 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Doctoral Student, School of Mathematics, <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a><br>
+  Doctoral Student<br>
+  <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a><br>
   Email: <a href="mailto:xiaohancai@sjtu.edu.cn">xiaohancai@sjtu.edu.cn</a>
 
 profile:
