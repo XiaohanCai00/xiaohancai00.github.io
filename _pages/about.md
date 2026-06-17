@@ -34,4 +34,4 @@ I am currently a doctoral student at [Shanghai Jiao Tong University](https://www
 
 I obtained my Bachelor's degree in Mathematics and Applied Mathematics from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2022 under the supervision of Prof. [Mijia Lai](https://math.sjtu.edu.cn/faculty/mlai/).
 
-My research lies in geometric analysis, particularly comparison geometry and rigidity phenomena. I study the classification and uniqueness of solutions to geometric PDEs arising from the calculus of variations and conformal geometry, which often lead to sharp geometric estimates. More recently, my interests have also extended to geometric obstructions to positive scalar curvature.
+My research lies in geometric analysis, particularly comparison geometry and rigidity phenomena. I study the classification and uniqueness of solutions to geometric PDEs arising from the calculus of variations and conformal geometry, which often lead to sharp geometric estimates. I have recently developed an interest in comparison and rigidity for manifolds with positive scalar curvature.
