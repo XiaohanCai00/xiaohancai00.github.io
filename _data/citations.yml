@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-31'
 papers:
   c0Cm2bIAAAAJ:2osOgNQ5qMEC:
-    citations: 4
+    citations: 5
     title: A survey of classification results for solutions to the Liouville equation
     year: '2024'
   c0Cm2bIAAAAJ:9yKSN-GCB0IC:
@@ -22,6 +22,6 @@ papers:
     title: A modified Bakry-\'Emery  criterion inequality and the monotonicity of the Tsallis entropy
     year: '2025'
   c0Cm2bIAAAAJ:u-x6o8ySG0sC:
-    citations: 10
+    citations: 11
     title: Liouville equations on complete surfaces with nonnegative Gauss curvature
     year: '2024'
