@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-10'
 papers:
   c0Cm2bIAAAAJ:2osOgNQ5qMEC:
-    citations: 5
+    citations: 6
     title: A survey of classification results for solutions to the Liouville equation
     year: '2024'
   c0Cm2bIAAAAJ:9yKSN-GCB0IC:
-    citations: 0
+    citations: 1
     title: An area growth estimate of the Liouville equation
     year: '2024'
+  c0Cm2bIAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Sharp rigidity for quasilinear Liouville equation on manifolds with nonnegative Ricci curvature
+    year: '2026'
   c0Cm2bIAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: A note on Wang's conjecture for harmonic functions with nonlinear boundary condition
@@ -22,6 +26,10 @@ papers:
     title: A modified Bakry-\'Emery  criterion inequality and the monotonicity of the Tsallis entropy
     year: '2025'
   c0Cm2bIAAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 12
     title: Liouville equations on complete surfaces with nonnegative Gauss curvature
     year: '2024'
+  c0Cm2bIAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Dimension of polynomial growth harmonic functions on locally conformally flat manifolds with nonnegative Ricci curvature
+    year: '2026'
